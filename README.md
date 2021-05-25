@@ -24,7 +24,7 @@
 - 착한 아이들에게만 보이는 리포지토리 운용중
 
 ## 최근 계속 개발중인 것
-<img src="https://github.com/barmco/barmco/blob/main/nnc-engine-contrast%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%208.47.12.png" height="150px">
+<img src="https://github.com/barmco/barmco/blob/main/nnc-engine-contrast.png" height="150px">
 
 
 NNC-ENGINE: Golang 기반으로 만들어진 마인크래프트용 스크립팅 엔진냥
