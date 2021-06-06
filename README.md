@@ -27,7 +27,7 @@
 <img src="https://github.com/barmco/barmco/blob/main/nnc-engine-contrast.png" height="150px">
 
 
-NNC-ENGINE: Golang 기반으로 만들어진 마인크래프트용 스크립팅 엔진냥
+<a href="https://github.com/barmco/nnc-engine-issue-tracker"><span>NNC-Engine</span></a>: Golang 기반으로 만들어진 마인크래프트용 스크립팅 엔진냥
 
 ---
 
