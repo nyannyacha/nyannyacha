@@ -26,7 +26,7 @@
 ## 최근 계속 개발중인 것
 <img src="https://github.com/barmco/barmco/blob/main/nnc-engine-contrast.png" height="125px">
 
-<span>NNC Engine</span></a>: [Rust](https://www.rust-lang.org/) 로 만들어진 마인크래프트용 고성능 스크립팅 엔진냥
+<span>NNC Engine</span></a>: [Rust](https://www.rust-lang.org/) 로 만들어진 마인크래프트용 고성능 스크립팅 엔진냥 (계속 만드는중냥)
 
 ---
 
