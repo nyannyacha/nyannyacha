@@ -1,10 +1,10 @@
 ## Nyannyacha
 <img src="https://media.tenor.com/images/910246ed2ab6f2bd1f46befc14128497/tenor.gif" width="15%" class="center">
 
-[![Anurag's github stats](https://github-readme-stats-56wilbndq.vercel.app/api?username=barmco&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats-56wilbndq.vercel.app/api?username=nyannyacha&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats-56wilbndq.vercel.app/api/top-langs/?username=barmco&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-56wilbndq.vercel.app/api/top-langs/?username=nyannyacha&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 물 먹듯이 애용하는 것
 <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=lua&logoColor=white"/> <img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white"/> <img src="https://img.shields.io/badge/glsl-%23000000.svg?&style=for-the-badge&logoColor=white">
